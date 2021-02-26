@@ -28,3 +28,6 @@
 ### Projects I have worked on
 
 - Deimos
+
+
+cant code for shit lmfao
