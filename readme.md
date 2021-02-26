@@ -20,11 +20,11 @@
 - Ruby
 - F#
 
-### ✨ Communities I Am Active In
+### Communities I Am Active In
 
 - [Minecraft](https://namemc.com/profile/TheRealDunk.1)
 - Valorant
 
-### 💎 Projects I have worked on
+### Projects I have worked on
 
 - Deimos
