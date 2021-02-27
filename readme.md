@@ -5,12 +5,12 @@
 - School
 - Making Minecraft Mods and Utilities
 - Valkyrie
-### Languages I know enough of to do shit in 
+### Languages I know well
 
 - Python
 - C#
 
-### Languages I know somewhat
+### Languages I know enough 
 
 - java
 - cpp
@@ -30,4 +30,4 @@
 - Deimos
 
 
-cant code for shit lmfao
+meh
