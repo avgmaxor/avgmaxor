@@ -4,7 +4,7 @@
 
 - School
 - Making Minecraft Mods and Utilities
-- Valkyrie
+- Your mum
 ### Languages I know well
 
 - Python
