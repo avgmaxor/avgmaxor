@@ -6,7 +6,7 @@ Deimos - DEAD. Rename of phobos.
 
 Valkyrie - DEAD. Rip Soulbond 😢.
 
-Solaris - ACTIVE. We do a little trolling.
+Solaris - DEAD. 🇦🇱
 
 ### Contact
 
