@@ -10,7 +10,7 @@ Solaris - DEAD. 🇦🇱
 
 ### Contact
 
-- Discord: `Maxor#0001`
+- Discord: `funk#0001`
 - Steam https://steamcommunity.com/id/maxorenjoysnekos/
 
 
