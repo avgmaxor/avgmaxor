@@ -2,7 +2,7 @@
 Im a Programmer who has a iq lower then a fish. 
 
 ### Projects -
-maxor - placeholder name for vid game i am making with pygame rn
+i do smoll stuf
 
 ### Contact
 
