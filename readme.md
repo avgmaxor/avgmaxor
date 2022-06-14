@@ -1,13 +1,15 @@
-#### Hola Soy Maxor
+## Hola Soy Maxor
 Im a Programmer who has a iq lower then a fish. 
 
-### Projects -
-i do smoll stuf
+### Experience
+- 2+ Years of Python
+- 2+ Years of JS (Re Learning Some Libraries)
+- 1+ Years of Java
 
 ### Contact
 
-- Discord: `funk#2000`
+- Discord: `avgjew#0001`
 - Steam https://steamcommunity.com/id/maxorenjoysnekos/
 
 
-'Developer'
+'Developer' - me 2020
