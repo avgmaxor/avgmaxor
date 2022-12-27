@@ -8,7 +8,7 @@ Im a Programmer who has a iq lower then a fish.
 
 ### Contact
 
-- Discord: `avgjew#0001`
+- Discord: `zhuk#4087`
 - Steam https://steamcommunity.com/id/maxorenjoysnekos/
 
 
